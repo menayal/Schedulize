@@ -1,0 +1,9 @@
+Create something that you do everyday.
+idea - Create a automated script that opens up my blackboard and books needed for the class.
+open up my calendar and view the homework assignments and work needed to be completed.
+Be able to add to the calendar when you have new assignments.
+when done with the assignment/day, be able to explain what you learn or have accomplished.
+Be able to start schedule all over again at end of week.
+Be able to ping my phone/devices when I have an assignment do.
+application that communicates with the cloud to get my info on assignments/schedule.
+will prob need to use a database to query things to show up on certain days?
